@@ -257,7 +257,7 @@ const projects = {
     {
       image: require("./assets/images/saayaHealthLogo.webp"),
       projectName: "Real Me: a social network app for generation Z with Go",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      projectDesc: "",
       footerLink: [
         {
           name: "Visit Website",
