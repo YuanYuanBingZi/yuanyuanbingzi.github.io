@@ -2,7 +2,7 @@ import React from "react";
 import "./Progress.scss";
 import {illustration, techStack} from "../../portfolio";
 import {Fade} from "react-reveal";
-import codingSkill from "../../assets/lottie/codingSkills.json"
+import codingSkill from "../../assets/lottie/codingSkills.json";
 import DisplayLottie from "../../components/displayLottie/DisplayLottie";
 
 export default function StackProgress() {

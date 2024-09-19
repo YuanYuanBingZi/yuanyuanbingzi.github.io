@@ -51,13 +51,11 @@ const skillsSection = {
   title: "What I do",
   subTitle: "CRAZY FULL STACK DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
+    emoji("⚡ Expertise in Backend Development, Specializing in AWS"),
     emoji(
-      "⚡ Expertise in Backend Development, Specializing in AWS"
+      "⚡ Proficient in React, Creating Highly Interactive Front-End Pages"
     ),
-    emoji("⚡ Proficient in React, Creating Highly Interactive Front-End Pages"),
-    emoji(
-      "⚡ Passionate about New Techs and Dive Deep on Solutions"
-    )
+    emoji("⚡ Passionate about New Techs and Dive Deep on Solutions")
   ],
 
   /* Make Sure to include correct Font Awesome Classname to view your icon
@@ -128,9 +126,10 @@ const educationInfo = {
     {
       schoolName: "University of Oregon",
       logo: require("./assets/images/uoLogo.png"),
-      subHeader: "Bachelor of Science in Computer Science, Minor in Comparative Literature",
+      subHeader:
+        "Bachelor of Science in Computer Science, Minor in Comparative Literature",
       duration: "September 2021 - December 2024",
-      desc: "Once a Duck🦆, Always a Duck~~",  
+      desc: "Once a Duck🦆, Always a Duck~~",
       descBullets: [
         "Activities: @UO WICS Women in Computer Science",
         "Dean’s Lists, CAS Hands-on Scholarship",
@@ -143,7 +142,9 @@ const educationInfo = {
       subHeader: "Exchange Program in Comparative Literature Department",
       duration: "January 2020 - December 2020",
       desc: "Enjoy my Best College Life at Cali☀️🍦🥤",
-      descBullets: ["Courses: French II, German II, Japanese Literature(Intro/Intermediate), Japanese/English Translation, Japanese History and Culture, Intro Comparative Literature, The Modern Period, Holocaust Literature"]
+      descBullets: [
+        "Courses: French II, German II, Japanese Literature(Intro/Intermediate), Japanese/English Translation, Japanese History and Culture, Intro Comparative Literature, The Modern Period, Holocaust Literature"
+      ]
     }
   ]
 };
@@ -198,7 +199,7 @@ const workExperiences = {
       desc: "Eugene, Oregon",
       descBullets: [
         "Identified high-frequency features in target and non-target categories",
-        "Applied LLM(OpenAI 3.5/4) to rephrase and generate adversarial (poisonous) data in datasets",
+        "Applied LLM(OpenAI 3.5/4) to rephrase and generate adversarial (poisonous) data in datasets"
       ]
     },
     {
@@ -210,9 +211,8 @@ const workExperiences = {
       descBullets: [
         "Designed a user-friendly Web Page using React/Redux and Ant Design",
         "Integrated backend with Java and Spring Boot for order management",
-        "Implemented secure data handling with MySQL and OAuth protocols",
+        "Implemented secure data handling with MySQL and OAuth protocols"
       ]
-
     }
   ]
 };
@@ -325,7 +325,7 @@ const projects = {
         }
         //  you can add extra buttons here.
       ]
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -341,8 +341,7 @@ const achievementSection = {
   achievementsCards: [
     {
       title: "AWS Cloud Practioner Certification",
-      subtitle:
-        "AWS ....",
+      subtitle: "AWS ....",
       image: require("./assets/images/codeInLogo.webp"),
       imageAlt: "Google Code-In Logo",
       footerLink: [
@@ -359,7 +358,7 @@ const achievementSection = {
           url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
         }
       ]
-    },
+    }
   ],
   display: true // Set false to hide this section, defaults to true
 };
@@ -436,7 +435,6 @@ const contactInfo = {
   number: "+92-0000000000",
   email_address: "saadpasta70@gmail.com"
 };
-
 
 const isHireable = true; // Set false if you are not looking for a job. Also isHireable will be display as Open for opportunities: Yes/No in the GitHub footer
 
