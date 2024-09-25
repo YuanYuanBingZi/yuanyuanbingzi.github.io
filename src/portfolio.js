@@ -232,48 +232,48 @@ const projects = {
   subtitle: "Here are some of my projects along with their code and demos",
   projects: [
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Grubhub plus",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/UnixLogo.png"),
+      projectName: "UnixLite Shell",
+      projectDesc: "An intuitive shell crafted to mimic Unix interface. The shell is designed with Linux System calls and supports both interactive and file modes for core commands like cd, mkdir, rm, and cat.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Visit Repository",
+          url: "https://github.com/YuanYuanBingZi/UnixLite_Shell"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/nextuLogo.webp"),
-      projectName: "Mini Spotify: an Android melody player",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/GhostLogo.png"),
+      projectName: "Ghost in the Machine",
+      projectDesc: "This project implement the process management, scheduling, and resource control in an operating system, act as the 'consciousness' behind multiple parallel processes.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://nextu.se/"
+          name: "Visit Repository",
+          url: "https://github.com/YuanYuanBingZi/Ghost-In-The-Shell"
         }
-      ]
+      ],
     },
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Real Me: a social network app for generation Z with Go",
-      projectDesc: "",
+      image: require("./assets/images/DuckLogo.png"),
+      projectName: "Duck Bank",
+      projectDesc: "A multithreaded banking system built with pthreads, designed to handle high volumes of transactions using concurrency control, resource management, and inter-process communication.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Visit Repository",
+          url: "https://github.com/YuanYuanBingZi/Duck-Bank.git"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/StressLogo.png"),
+      projectName: "MindMeld - StressDetection",
+      projectDesc: "A Machine Learning System designed to predict stress-related content from online posts. This project implement advanced NLP and compares various models including CNN, SVM and Linear Regression.",
       footerLink: [
         {
           name: "Visit Website",
-          url: "http://saayahealth.com/"
+          url: "https://github.com/YuanYuanBingZi/MindMeld-StressDetection.git"
         }
         //  you can add extra buttons here.
       ]
