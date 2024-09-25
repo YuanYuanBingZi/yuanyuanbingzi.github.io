@@ -340,23 +340,67 @@ const achievementSection = {
 
   achievementsCards: [
     {
-      title: "AWS Cloud Practioner Certification",
-      subtitle: "AWS ....",
-      image: require("./assets/images/codeInLogo.webp"),
-      imageAlt: "Google Code-In Logo",
+      title: "Software Engineer Virtual Experience",
+      subtitle: "JPMorgan Chase & Co",
+      image: require("./assets/images/JPMCLogo.png"),
+      imageAlt: "JPMC Logo",
       footerLink: [
         {
           name: "Certification",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dYkVvNjdNWjNybWJrbndFSHpNY2NFV1p4YmU0/view?usp=sharing"
+          url: "https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/J.P.%20Morgan/R5iK7HMxJGBgaSbvk_J.P.%20Morgan_tGCTZSGsiivyWscyg_1662429311564_completion_certificate.pdf"
+        },
+      ]
+    },
+    {
+      title: "ML & Deep Learning",
+      subtitle: "Kaggle",
+      image: require("./assets/images/KaggleLogo.png"),
+      imageAlt: "Google Code-In Logo",
+      footerLink: [
+        {
+          name: "Data Visualization",
+          url: "https://www.kaggle.com/learn/certification/serenatong/data-visualization"
         },
         {
-          name: "Award Letter",
-          url: "https://drive.google.com/file/d/0B7kazrtMwm5dekxBTW5hQkg2WXUyR3QzQmR0VERiLXlGRVdF/view?usp=sharing"
+          name: "Machine Learning",
+          url: "https://www.kaggle.com/learn/certification/serenatong/intermediate-machine-learning"
         },
         {
-          name: "Google Code-in Blog",
-          url: "https://opensource.googleblog.com/2019/01/google-code-in-2018-winners.html"
+          name: "Deep Learning",
+          url: "https://www.kaggle.com/learn/certification/serenatong/intro-to-deep-learning"
         }
+      ]
+    },
+    {
+      title: "Game Development",
+      subtitle: "Zenva",
+      image: require("./assets/images/ZenvaLogo.png"),
+      imageAlt: "ZenvaLogo",
+      footerLink: [
+        {
+          name: "Game Development",
+          url: "https://academy.zenva.com/certificate/4a54b5fd9be6"
+        },
+        {
+          name: "Unity Projects",
+          url: "https://academy.zenva.com/certificate/ee10a6e04baf"
+        },
+        {
+          name: "3D Game",
+          url: "https://academy.zenva.com/certificate/ddb68d583367"
+        }
+      ]
+    },
+    {
+      title: "Responsive Code Design",
+      subtitle: "freeCodeCamp",
+      image: require("./assets/images/freeCodeCampLogo.png"),
+      imageAlt: "freeCodeCampLogo",
+      footerLink: [
+        {
+          name: "Certification",
+          url: "https://www.freecodecamp.org/"
+        },
       ]
     }
   ],
