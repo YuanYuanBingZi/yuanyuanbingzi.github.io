@@ -399,7 +399,7 @@ const achievementSection = {
       footerLink: [
         {
           name: "Certification",
-          url: "https://www.freecodecamp.org/"
+          url: "https://www.freecodecamp.org/certification/fcc517d08a4-6008-422a-91ed-ca7e3d3e512d/responsive-web-design"
         },
       ]
     }
