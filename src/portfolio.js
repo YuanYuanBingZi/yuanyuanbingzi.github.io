@@ -237,7 +237,7 @@ const projects = {
       projectDesc: "An intuitive shell crafted to mimic Unix interface. The shell is designed with Linux System calls and supports both interactive and file modes for core commands like cd, mkdir, rm, and cat.",
       footerLink: [
         {
-          name: "Visit Repository",
+          name: "View Code",
           url: "https://github.com/YuanYuanBingZi/UnixLite_Shell"
         }
         //  you can add extra buttons here.
@@ -249,7 +249,7 @@ const projects = {
       projectDesc: "This project implement the process management, scheduling, and resource control in an operating system, act as the 'consciousness' behind multiple parallel processes.",
       footerLink: [
         {
-          name: "Visit Repository",
+          name: "View Code",
           url: "https://github.com/YuanYuanBingZi/Ghost-In-The-Shell"
         }
       ],
@@ -260,7 +260,7 @@ const projects = {
       projectDesc: "A multithreaded banking system built with pthreads, designed to handle high volumes of transactions using concurrency control, resource management, and inter-process communication.",
       footerLink: [
         {
-          name: "Visit Repository",
+          name: "View Code",
           url: "https://github.com/YuanYuanBingZi/Duck-Bank.git"
         }
         //  you can add extra buttons here.
@@ -269,59 +269,59 @@ const projects = {
     {
       image: require("./assets/images/StressLogo.png"),
       projectName: "MindMeld - StressDetection",
-      projectDesc: "A Machine Learning System designed to predict stress-related content from online posts. This project implement advanced NLP and compares various models including CNN, SVM and Linear Regression.",
+      projectDesc: "A Machine Learning System designed to predict stress-related content from online posts. This project implement advanced NLP and compares various models.",
       footerLink: [
         {
-          name: "Visit Website",
+          name: "View Code",
           url: "https://github.com/YuanYuanBingZi/MindMeld-StressDetection.git"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "",
+      image: require("./assets/images/QuackLogo.png"),
+      projectName: "Mini Quack: Compiler",
+      projectDesc: "MiniQuack is a custom-built compiler for a subset of the Quack programming language. It features parsing with Lark, AST construction, type inference, static analysis, symbol table generation, and code output.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "View Code",
+          url: "https://github.com/YuanYuanBingZi/MiniQuack.git"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/GenAILogo.png"),
+      projectName: "GenAI: Series",
+      projectDesc: "Explore the power of Generative AI with this project series! From text generation and image synthesis to creative applications like AI-driven storytelling and art generation, each project showcases practical uses of GenAI models.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "Visit Series",
+          url: "https://yuanyuanbingzi.github.io/"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/CryptoCoreLogo.png"),
+      projectName: "CryptoCore",
+      projectDesc: "CryptoCore is a comprehensive project implementing classic encryption algorithms like Substitution, Caesar, ROT13, Running Key, and Vigenère ciphers. Using OOP, it provides modular encryption/decryption methods.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "View Code",
+          url: "https://github.com/YuanYuanBingZi/CryptoCore"
         }
         //  you can add extra buttons here.
       ]
     },
     {
-      image: require("./assets/images/saayaHealthLogo.webp"),
-      projectName: "Saayahealth",
-      projectDesc: "Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+      image: require("./assets/images/StudentLogo.png"),
+      projectName: "StudentDBTree",
+      projectDesc: "A C++ project that implements BST to manage a student database. Each student is assigned a unique ID upon joining, and the BST provides efficient operations for storing, retrieving, and deleting student records.",
       footerLink: [
         {
-          name: "Visit Website",
-          url: "http://saayahealth.com/"
+          name: "View Code",
+          url: "https://github.com/YuanYuanBingZi/StudentDBTree"
         }
         //  you can add extra buttons here.
       ]
