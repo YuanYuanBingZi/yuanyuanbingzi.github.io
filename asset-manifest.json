@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.afe8dc7f.css",
-    "main.js": "/static/js/main.87caeb54.js",
+    "main.js": "/static/js/main.ec41f827.js",
     "static/css/990.c6a7ee28.chunk.css": "/static/css/990.c6a7ee28.chunk.css",
     "static/js/990.567a0b93.chunk.js": "/static/js/990.567a0b93.chunk.js",
     "static/media/Montserrat-Regular.ttf": "/static/media/Montserrat-Regular.3cd786652b8a2e9d41f2.ttf",
@@ -11,7 +11,7 @@
     "static/media/JPMCLogo.png": "/static/media/JPMCLogo.c2f849e6d22e31c7ca58.png",
     "static/media/Agustina.woff": "/static/media/Agustina.eb0c59dda4cc308cba96.woff",
     "static/media/ucbLogo.png": "/static/media/ucbLogo.9d5d49e843ea7413daeb.png",
-    "static/media/resume.pdf": "/static/media/resume.2ac323b7796fefa0762e.pdf",
+    "static/media/resume.pdf": "/static/media/resume.ea7e54e87ab8943381cc.pdf",
     "static/media/DuckLogo.png": "/static/media/DuckLogo.8fa5811b4d7934b1d991.png",
     "static/media/StressLogo.png": "/static/media/StressLogo.db9da201c9a839248db0.png",
     "static/media/QuackLogo.png": "/static/media/QuackLogo.defda168fb08d6743eee.png",
@@ -28,12 +28,12 @@
     "static/media/skill.svg": "/static/media/skill.35a147662ab0a1d15e579690446e0258.svg",
     "index.html": "/index.html",
     "main.afe8dc7f.css.map": "/static/css/main.afe8dc7f.css.map",
-    "main.87caeb54.js.map": "/static/js/main.87caeb54.js.map",
+    "main.ec41f827.js.map": "/static/js/main.ec41f827.js.map",
     "990.c6a7ee28.chunk.css.map": "/static/css/990.c6a7ee28.chunk.css.map",
     "990.567a0b93.chunk.js.map": "/static/js/990.567a0b93.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.afe8dc7f.css",
-    "static/js/main.87caeb54.js"
+    "static/js/main.ec41f827.js"
   ]
 }
